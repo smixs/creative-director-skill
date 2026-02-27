@@ -1,7 +1,8 @@
 # 🎬 Creative Director Skill
 
-[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue?style=flat-square)](https://clawhub.com)
+[![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet?style=flat-square)](https://docs.anthropic.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![20+ Methods](https://img.shields.io/badge/Methods-20%2B-orange?style=flat-square)](#methodologies-20)
 
 **🇷🇺 [Читать на русском](README.ru.md)**
 
@@ -78,23 +79,19 @@ Story Spine (Pixar) · Sparkline (Nancy Duarte) · Freytag's Pyramid · Monroe's
 
 ## Installation
 
-### OpenClaw
+### Claude Projects
 
-Copy the `creative-director/` folder to your OpenClaw skills directory:
+Add the files to your Claude Project's knowledge base. Upload all files from `creative-director/` — `SKILL.md` is the entry point, it references other files via `[[wikilinks]]`.
+
+### Claude Code / Cursor / Windsurf / Any AI Agent
+
+Copy the `creative-director/` folder to your project or skills directory:
 
 ```bash
-# Clone
 git clone https://github.com/smixs/creative-director-skill.git
-
-# Copy to OpenClaw skills
-cp -r creative-director-skill/creative-director ~/.openclaw/workspace/skills/
 ```
 
-The skill auto-activates when you ask Claude to generate creative concepts, brainstorm campaign ideas, develop a Big Idea, evaluate creative work, or find consumer insights.
-
-### Claude Projects / Other Platforms
-
-Add the files to your project's knowledge base. Start with `SKILL.md` — it references other files via `[[wikilinks]]`, which you can resolve manually or include all files at once.
+The skill works with any AI agent that supports structured instructions — Claude, GPT, Gemini, or local models. The core logic is in markdown files, no platform lock-in.
 
 ## Usage Examples
 

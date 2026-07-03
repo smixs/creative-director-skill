@@ -6,7 +6,7 @@
 
 <p align="center"><sub>Креатива в AI нет. Есть методологии победителей.</sub></p>
 
-# 🎬 Creative Director Skill
+<h1 align="center">🎬 Creative Director Skill</h1>
 
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet?style=flat-square)](https://docs.anthropic.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)

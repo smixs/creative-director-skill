@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/header.webp" alt="Creative Director Skill" width="100%">
+</p>
+
+<h1 align="center">There is no creativity in AI.<br>There are the methodologies of winners.</h1>
+
+<p align="center"><sub>Креатива в AI нет. Есть методологии победителей.</sub></p>
+
 # 🎬 Creative Director Skill
 
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet?style=flat-square)](https://docs.anthropic.com)

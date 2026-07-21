@@ -15,12 +15,12 @@
 [![Version](https://img.shields.io/badge/Version-2.0-red?style=flat-square)](#whats-new-in-v20)
 [![Website](https://img.shields.io/badge/Website-cd--skill.com-ff3b47?style=flat-square)](https://cd-skill.com)
 
+**🇷🇺 [Читать на русском](README.ru.md)**
+
 <a href="https://cd-skill.com">
-  <img src="assets/cd-skill-site.png" alt="cd-skill.com — full method breakdown, all 20 techniques and the pipeline" width="100%">
+  <img src="assets/cd-skill-site.webp" alt="cd-skill.com — full method breakdown, all 20 techniques and the pipeline" width="100%">
 </a>
 <p align="center"><b>🌐 Full method breakdown, all 20 techniques and the pipeline → <a href="https://cd-skill.com">cd-skill.com</a></b></p>
-
-**🇷🇺 [Читать на русском](README.ru.md)**
 
 > Created in collaboration with **Paul Deadcough**.
 

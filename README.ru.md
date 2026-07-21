@@ -13,6 +13,9 @@
 [![Methods 20+](https://img.shields.io/badge/Methods-20%2B-orange?style=flat-square)](#методологии-20)
 [![Case Library](https://img.shields.io/badge/Cases-571-blue?style=flat-square)](#библиотека-кейсов)
 [![Version](https://img.shields.io/badge/Version-2.0-red?style=flat-square)](#что-нового-в-v20)
+[![Website](https://img.shields.io/badge/Website-cd--skill.com-ff3b47?style=flat-square)](https://cd-skill.com)
+
+### 🌐 Подробный разбор метода, все 20 техник и пайплайн — [cd-skill.com](https://cd-skill.com)
 
 **🇬🇧 [Read in English](README.md)**
 

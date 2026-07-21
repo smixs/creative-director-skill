@@ -13,6 +13,9 @@
 [![Methods 20+](https://img.shields.io/badge/Methods-20%2B-orange?style=flat-square)](#methodologies-20)
 [![Case Library](https://img.shields.io/badge/Cases-571-blue?style=flat-square)](#case-library)
 [![Version](https://img.shields.io/badge/Version-2.0-red?style=flat-square)](#whats-new-in-v20)
+[![Website](https://img.shields.io/badge/Website-cd--skill.com-ff3b47?style=flat-square)](https://cd-skill.com)
+
+### 🌐 Full method breakdown, all 20 techniques and the pipeline — [cd-skill.com](https://cd-skill.com)
 
 **🇷🇺 [Читать на русском](README.ru.md)**
 

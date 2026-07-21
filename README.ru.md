@@ -15,7 +15,10 @@
 [![Version](https://img.shields.io/badge/Version-2.0-red?style=flat-square)](#что-нового-в-v20)
 [![Website](https://img.shields.io/badge/Website-cd--skill.com-ff3b47?style=flat-square)](https://cd-skill.com)
 
-### 🌐 Подробный разбор метода, все 20 техник и пайплайн — [cd-skill.com](https://cd-skill.com)
+<a href="https://cd-skill.com">
+  <img src="assets/cd-skill-site.png" alt="cd-skill.com — подробный разбор метода, все 20 техник и пайплайн" width="100%">
+</a>
+<p align="center"><b>🌐 Подробный разбор метода, все 20 техник и пайплайн → <a href="https://cd-skill.com">cd-skill.com</a></b></p>
 
 **🇬🇧 [Read in English](README.md)**
 

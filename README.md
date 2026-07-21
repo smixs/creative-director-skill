@@ -50,6 +50,8 @@ Quality reviewed via [`skill-conductor`](https://github.com/smixs/skill-conducto
 
 Feed it a brief in any format — text, voice transcript, PDF, raw notes — and it runs a full creative cycle:
 
+<img src="assets/pipeline-phases.webp" alt="Pipeline: 5 phases from brief to idea — intake, insight, ideas, evaluate, articulate; phase 04 loops until the idea is strong" width="100%">
+
 1. **INTAKE** — extracts the brief's DNA: product, audience, objectives, constraints + classifies the required idea level using Pollard 7-level taxonomy (business / brand / tagline / advertising / campaign / non_advertising / execution)
 2. **INSIGHT** — mines consumer insights using 7 proven techniques (Mark Pollard, JTBD, Tension Spotting, HMW, Abstraction Laddering)
 3. **IDEATION** — primes against the canon (scans 5-7 cases from the relevant MOC), then generates 8-12 ideas using 3 methods from different categories (structural × associative × disruptive), rotating between 20+ methodologies, with a Tension test on each
@@ -61,6 +63,8 @@ You can also enter at any phase: jump to insight mining, evaluate an existing id
 ## Why This Exists
 
 Most AI "creative" tools generate ideas by free association — producing volume without structure. The result: hundreds of mediocre concepts that nobody can evaluate, often unknowingly recycling work that already exists.
+
+<img src="assets/why-averaged.webp" alt="The model returns averaged and overplayed — without insight and structure, AI runs like a production line stamping the same thing" width="100%">
 
 This skill enforces the discipline that separates award-winning work from filler:
 
@@ -112,6 +116,8 @@ creative-director/
 
 571 advertising campaigns from 1950–2025, tagged across **17 axes**, with full structural analysis on every card.
 
+<img src="assets/case-library.webp" alt="571 award-winning cases inside — each card breaks down the insight, the execution, why it worked, and what to steal as method" width="100%">
+
 ### Card structure
 
 Each card has YAML frontmatter (17 axes — see `references/tag-schema.md`) + 4 sections:
@@ -158,6 +164,8 @@ This is empirical saturation, not subjective novelty.
 
 ## Methodologies (20+)
 
+<img src="assets/methods-20.webp" alt="20 methods to ideate in 6 groups — structural, association, inversion, perturbation, volume, bonus; every brief pulls one technique from different groups" width="100%">
+
 | Category | Methods |
 |----------|---------|
 | **Structural** | SIT/Goldenberg Templates, SCAMPER, TRIZ (10 principles), Morphological Analysis |
@@ -168,6 +176,8 @@ This is empirical saturation, not subjective novelty.
 | **Bonus** | First Principles Thinking, Lateral Thinking Toolkit, Design Sprint Sketch |
 
 ## Evaluation System
+
+<img src="assets/scoring-loop.webp" alt="6 weighted criteria — originality 0.25, strategic fit 0.20, emotion 0.20, craftability 0.15, scalability 0.10, simplicity 0.10; score 9 of 10 and human impact 7+ to advance" width="100%">
 
 Three parallel scoring systems calibrated against real campaigns:
 

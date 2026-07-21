@@ -225,7 +225,15 @@ Story Spine (Pixar) · Sparkline (Nancy Duarte) · Freytag's Pyramid · Monroe's
 
 ## Installation
 
-### Claude Code (recommended)
+Via [skills.sh](https://skills.sh/smixs/creative-director-skill) — installs into any of 70+ supported agents:
+
+```bash
+npx skills add smixs/creative-director-skill        # asks where to install
+npx skills add smixs/creative-director-skill -g     # globally, for all projects
+npx skills update creative-director                 # update to latest
+```
+
+Or manually (Claude Code):
 
 ```bash
 git clone https://github.com/smixs/creative-director-skill.git

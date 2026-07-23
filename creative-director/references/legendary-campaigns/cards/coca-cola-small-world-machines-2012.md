@@ -47,3 +47,7 @@ When a brand claim is about connection, the campaign must produce real connectio
 - Sibling: [[always-like-a-girl-2014.md|Like a Girl]]
 - Sibling: [[pg-the-talk-2017.md|The Talk]]
 - Emotion match: [[avis-we-try-harder-1962.md|We Try Harder]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

@@ -590,3 +590,7 @@ Total: 571 cards
 - [[cards/intel-the-beauty-inside-2012.md|The Beauty Inside]] — Intel · 2012 · long_form · vulnerable_defiance · medium · cannes_grand_prix
 - [[cards/johnnie-walker-man-who-walked-around-world-2009.md|The Man Who Walked Around the World]] — Johnnie Walker · 2009 · long_form · reverent · medium · cannes_gold
 - [[cards/bmw-the-hire-2001.md|The Hire]] — BMW · 2001 · long_form · sublime_terror · high · cannes_gold
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

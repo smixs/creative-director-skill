@@ -47,3 +47,7 @@ When a brand's equity is built on style and elegance, the ad itself must demonst
 - Sibling: [[guinness-surfer-1999.md|Surfer]]
 - Sibling: [[guinness-sapeurs-2014.md|Sapeurs]]
 - Emotion match: [[metro-trains-dumb-ways-to-die-2012.md|Dumb Ways to Die]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

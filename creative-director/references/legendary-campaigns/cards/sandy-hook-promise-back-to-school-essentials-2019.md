@@ -47,3 +47,7 @@ Take the most joyful, commercial, category-coded moment in your cultural calenda
 - Sibling: [[always-like-a-girl-2014.md|Like a Girl]]
 - Sibling: [[sandy-hook-promise-evan-2016.md|Evan]]
 - Emotion match: [[always-like-a-girl-2014.md|Like a Girl]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

@@ -46,3 +46,7 @@ Find the platform where your audience already spends time doing something that s
 - Sibling: [[red-bull-stratos-2012.md|Stratos]]
 - Sibling: [[snickers-hungerithm-2016.md|Hungerithm]]
 - Emotion match: [[avis-we-try-harder-1962.md|We Try Harder]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

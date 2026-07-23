@@ -47,3 +47,7 @@ Take your brand's core slogan and design a mechanism that executes it in the rea
 - Sibling: [[tuvalu-the-first-digital-nation-2022.md|The First Digital Nation]]
 - Sibling: [[bing-decode-jay-z-2010.md|Decode Jay-Z]]
 - Emotion match: [[absolut-absolut-campaign-1981.md|Absolut _____]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

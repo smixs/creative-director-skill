@@ -230,3 +230,7 @@ Match the brief signal to the most productive format(s):
 
 - **Phase 1 INTAKE:** load this reference when the brief mentions activation, stunt, utility, experiential, retail mechanic, gaming, sponsorship, or PR play. Use the Critical Test immediately to determine `idea_type` before generating any concepts.
 - **Phase 4 EVALUATE + REFINE:** if `idea_type: non_advertising` has been tagged, apply the "Remove the campaign" test as a pass/fail gate before scoring. Ideas that fail the test should be reclassified as `execution` and evaluated under advertising logic, not activation logic.
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

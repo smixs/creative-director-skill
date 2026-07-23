@@ -51,3 +51,7 @@ When your brand's social truth can be stated in plain numbers, state it in plain
 - Sibling: [[apple-1984-1984.md|1984]]
 - Sibling: [[calm-the-last-photo-2022.md|The Last Photo]]
 - Emotion match: [[apple-1984-1984.md|1984]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

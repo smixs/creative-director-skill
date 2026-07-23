@@ -47,3 +47,7 @@ When a brand's direct messaging has become culturally toxic through overuse, the
 - Sibling: [[apple-1984-1984.md|1984]]
 - Sibling: [[apple-think-different-1997.md|Think Different]]
 - Emotion match: [[absolut-absolut-campaign-1981.md|Absolut _____]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

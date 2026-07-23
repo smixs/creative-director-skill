@@ -103,3 +103,7 @@ Some method pairs reinforce each other. Consider when manually adjusting the tri
 - **TRIZ + Forced Connections:** both methods can pull the idea in different directions. Use only when there's a clear contradiction in the brief.
 - **Morphological Analysis + Provocation PO:** Morphological systematizes, Provocation destroys the system. Apply sequentially, not in parallel: morphology first, then provocation against the best combinations.
 - **Random Entry + Worst Idea:** two sources of chaos simultaneously. High risk of losing focus. Permissible only in early passes with full brief freedom.
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

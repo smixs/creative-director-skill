@@ -261,3 +261,7 @@ Hard time limit. "I'll show this in five minutes." Tension through constraint. F
 - **Phase 1 INTAKE:** Before generating or evaluating ideas, identify which level is actually being requested. Misread level = wrong deliverable. Ask if unclear.
 - **Phase 4 PASS 0 (selection):** Classify every candidate idea by level before scoring. An execution cannot compete against a campaign idea in the same pass.
 - **Activation briefs:** Apply the non-advertising vs. execution diagnostic before scoping any activation work. See `activation-toolkit.md` for mechanics. The answer changes pitch framing, budget logic, and what "done" looks like.
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

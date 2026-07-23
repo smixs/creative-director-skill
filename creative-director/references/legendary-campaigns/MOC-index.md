@@ -575,3 +575,7 @@ Total: 571 cards
 - [[cards/vw-snow-plow-1964.md|Snow Plow]] — Volkswagen · 1964 · film · ironic_sincerity · low · unknown
 - [[cards/avis-we-try-harder-1962.md|We Try Harder]] — Avis · 1962 · integrated · defensive_hope · medium · multiple
 - [[cards/vw-think-small-1959.md|Think Small]] — Volkswagen · 1959 · ooh_print · ironic_sincerity · low · multiple
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

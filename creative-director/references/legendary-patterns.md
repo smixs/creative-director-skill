@@ -396,3 +396,7 @@ Use this sequence after generating a candidate idea:
 - **Phase 4 calibration block.** After generating candidate ideas, run each through this pattern map. Identify the P-code, check saturation, and surface the originality challenge before scoring. A high-execution idea in a saturated pattern scores differently than the same execution in an undersaturated one.
 
 - **Pass 4-5 Pre-Mortem.** Before the finalist concept reaches the client presentation, apply the Pre-Mortem Template. Output the priority table and attach the Verdict (Go / Revise / Kill) to the concept record. If the verdict is Revise or Kill, loop back to ideation before proceeding.
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

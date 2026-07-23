@@ -47,3 +47,7 @@ When a campaign has established a physical mechanic, the second execution must e
 - Sibling: [[metro-trains-dumb-ways-to-die-2012.md|Dumb Ways to Die]]
 - Sibling: [[old-spice-man-your-man-could-smell-like-2010.md|The Man Your Man Could Smell Like]]
 - Emotion match: [[metro-trains-dumb-ways-to-die-2012.md|Dumb Ways to Die]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

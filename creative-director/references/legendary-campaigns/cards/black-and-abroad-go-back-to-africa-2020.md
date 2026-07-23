@@ -50,3 +50,7 @@ Find the most hostile thing said about your audience. Ask what it would mean if 
 - Sibling: [[always-like-a-girl-2014.md|Like a Girl]]
 - Sibling: [[sandy-hook-promise-back-to-school-essentials-2019.md|Back-to-School Essentials]]
 - Emotion match: [[apple-1984-1984.md|1984]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

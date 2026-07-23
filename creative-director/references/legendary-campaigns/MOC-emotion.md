@@ -580,3 +580,7 @@ Total: 571 cards
 ## Tier 1 (2 cases)
 - [[cards/skittles-cat-lick-2013.md|Cat Lick]] — Skittles · 2013 · film · ironic · medium · unknown
 - [[cards/emerald-nuts-yes-good-2006.md|Yes Good]] — Emerald Nuts · 2006 · film · ironic · medium · unknown
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

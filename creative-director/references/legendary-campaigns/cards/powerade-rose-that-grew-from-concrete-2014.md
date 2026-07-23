@@ -46,3 +46,7 @@ In a category where everyone shows the finish line, own the race. Find the human
 - Sibling: [[apple-1984-1984.md|1984]]
 - Sibling: [[apple-think-different-1997.md|Think Different]]
 - Emotion match: [[always-like-a-girl-2014.md|Like a Girl]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

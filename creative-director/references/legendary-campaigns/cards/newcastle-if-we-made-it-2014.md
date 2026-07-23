@@ -47,3 +47,7 @@ The ad that describes the ad it couldn't make is more interesting than the ad it
 - Sibling: [[always-like-a-girl-2014.md|Like a Girl]]
 - Sibling: [[sandy-hook-promise-back-to-school-essentials-2019.md|Back-to-School Essentials]]
 - Emotion match: [[absolut-absolut-campaign-1981.md|Absolut _____]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

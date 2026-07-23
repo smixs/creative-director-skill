@@ -1092,3 +1092,7 @@ Total: 571 cards
 - [[cards/playstation-gravity-cat-2015.md|Gravity Cat]] — PlayStation · 2015 · integrated · sublime_terror · high · unknown
 - [[cards/squarespace-calling-johnmalkovich-2015.md|Calling JohnMalkovich.com]] — Squarespace · 2015 · film · ironic_sincerity · medium · unknown
 - [[cards/bmw-starry-night-2023.md|Starry Night]] — BMW · 2023 · integrated · sublime_terror · high · unknown
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

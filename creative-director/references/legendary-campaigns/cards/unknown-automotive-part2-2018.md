@@ -46,3 +46,7 @@ Two-part film campaigns extend reach by creating a reason to return. The second 
 - Sibling: [[db-export-brewtroleum-2015.md|Brewtroleum]]
 - Sibling: [[google-parisian-love-2010.md|Parisian Love]]
 - Emotion match: [[guinness-surfer-1999.md|Surfer]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

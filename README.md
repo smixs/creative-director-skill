@@ -9,7 +9,7 @@
 <h1 align="center">🎬 Creative Director Skill</h1>
 
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet?style=flat-square)](https://docs.anthropic.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-orange?style=flat-square)](LICENSE)
 [![Methods 20+](https://img.shields.io/badge/Methods-20%2B-orange?style=flat-square)](#methodologies-20)
 [![Case Library](https://img.shields.io/badge/Cases-571-blue?style=flat-square)](#case-library)
 [![Version](https://img.shields.io/badge/Version-2.0-red?style=flat-square)](#whats-new-in-v20)
@@ -316,6 +316,10 @@ Creative Constitution based on the Voskresensky/IKRA approach.
 
 Case library curated from D&AD, Cannes Lions, One Show, Webby, and Effie shortlists 1950–2025.
 
+## Author
+
+**Serge Shima** — [t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)
+
 ## License
 
-MIT — use it, fork it, make better ads.
+**CC BY 4.0** — use it, fork it, make better ads, commercially too. One hard rule: **credit the author**. Any copy or derivative — including skills assembled by AI agents from these files or the 571-case library — must keep the attribution line: *Serge Shima — [github.com/smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*. See [LICENSE](LICENSE) and [NOTICE](NOTICE).

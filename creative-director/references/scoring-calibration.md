@@ -246,3 +246,7 @@ The idea's level must match the brief's objective. Level mismatch is a common er
 - Campaign Idea when a Big Idea is needed — will work for six months and die. No foundation for growth.
 
 Before evaluating, determine: what idea level does the brief call for, and what idea level is being proposed. If there's a mismatch — it lowers the strategic fit score, even if the idea itself is strong.
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

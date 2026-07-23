@@ -47,3 +47,7 @@ Attack a specific, named cognitive bias with the minimum evidence required to di
 - Sibling: [[apple-1984-1984.md|1984]]
 - Sibling: [[essity-womb-stories-2020.md|Womb Stories]]
 - Emotion match: [[essity-womb-stories-2020.md|Womb Stories]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

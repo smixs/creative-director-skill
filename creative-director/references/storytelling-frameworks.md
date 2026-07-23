@@ -128,3 +128,7 @@ Six working structures for building stories in advertising formats. Each framewo
 
 **Example:** Nike — the athlete is always the hero, Nike is the tool that helps them overcome themselves. Apple — the creative person is the hero, Apple is the tool that removes barriers between idea and execution. In both cases, the brand never puts itself at the center. It spotlights the customer.
 **When to use:** for brand image campaigns where the brand wants to build a long-term emotional connection with the audience through the position of a mentor, not a contender for attention.
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

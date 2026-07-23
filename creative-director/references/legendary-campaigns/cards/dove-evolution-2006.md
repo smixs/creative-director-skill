@@ -46,3 +46,7 @@ Find the process that your industry keeps hidden because its revelation would be
 - Pattern: [[../MOC-pattern.md#p12]]
 - Sibling: [[always-like-a-girl-2014.md|Like a Girl]]
 - Sibling: [[pg-the-talk-2017.md|The Talk]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

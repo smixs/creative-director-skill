@@ -45,3 +45,7 @@ When a law or rule is arbitrary, find the geographic, legal, or technical edge c
 - Pattern: [[../MOC-pattern.md#p04]]
 - Sibling: [[nike-dream-crazy-2018.md|Dream Crazy]]
 - Sibling: [[the-zimbabwean-trillion-dollar-campaign-2008.md|Trillion Dollar Campaign]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

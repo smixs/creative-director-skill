@@ -205,3 +205,7 @@ Filling rules:
 | Post, banner, simple task | Quick Brief Response |
 
 If the task doesn't fit exactly into any format — use Top-3 as the base and adapt to context.
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

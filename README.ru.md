@@ -9,7 +9,7 @@
 # 🎬 Creative Director Skill
 
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet?style=flat-square)](https://docs.anthropic.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-orange?style=flat-square)](LICENSE)
 [![Methods 20+](https://img.shields.io/badge/Methods-20%2B-orange?style=flat-square)](#методологии-20)
 [![Case Library](https://img.shields.io/badge/Cases-571-blue?style=flat-square)](#библиотека-кейсов)
 [![Version](https://img.shields.io/badge/Version-2.0-red?style=flat-square)](#что-нового-в-v20)
@@ -316,6 +316,10 @@ Creative Constitution — на основе подхода Воскресенс�
 
 Библиотека кейсов курирована из shortlist'ов D&AD, Cannes Lions, One Show, Webby и Effie 1950–2025.
 
+## Автор
+
+**Сергей Шима** - [t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)
+
 ## Лицензия
 
-MIT — используй, форкай, делай рекламу лучше.
+**CC BY 4.0** - используйте, форкайте, делайте рекламу лучше, в том числе коммерчески. Одно жёсткое правило: **указывайте автора**. Любая копия или производная, включая скиллы, собранные AI-агентами из этих файлов или библиотеки на 571 кейс, обязана сохранить строку атрибуции: *Serge Shima - [github.com/smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*. Подробности в [LICENSE](LICENSE) и [NOTICE](NOTICE).

@@ -47,3 +47,7 @@ In a category defined by rationality, the brand that speaks to the emotional rea
 - Sibling: [[apple-1984-1984.md|1984]]
 - Sibling: [[apple-think-different-1997.md|Think Different]]
 - Emotion match: [[metro-trains-dumb-ways-to-die-2012.md|Dumb Ways to Die]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

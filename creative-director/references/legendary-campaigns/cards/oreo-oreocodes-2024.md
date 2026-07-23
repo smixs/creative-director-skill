@@ -45,3 +45,7 @@ Find the overlooked physical detail of your product and make it load-bearing. Ex
 - Pattern: [[../MOC-pattern.md#p09]]
 - Sibling: [[red-bull-stratos-2012.md|Stratos]]
 - Sibling: [[snickers-hungerithm-2016.md|Hungerithm]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

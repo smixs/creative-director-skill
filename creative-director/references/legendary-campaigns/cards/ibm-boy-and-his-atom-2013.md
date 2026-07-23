@@ -46,3 +46,7 @@ When your organisation works at a scale that most people cannot perceive, find a
 - Sibling: [[snickers-hungerithm-2016.md|Hungerithm]]
 - Sibling: [[tuvalu-the-first-digital-nation-2022.md|The First Digital Nation]]
 - Emotion match: [[guinness-surfer-1999.md|Surfer]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

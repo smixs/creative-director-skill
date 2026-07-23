@@ -46,3 +46,7 @@ Take the most unflattering visual state of your product — used, broken, empty 
 - Pattern: [[../MOC-pattern.md#p17]]
 - Sibling: [[absolut-absolut-campaign-1981.md|Absolut _____]]
 - Sibling: [[apple-think-different-1997.md|Think Different]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

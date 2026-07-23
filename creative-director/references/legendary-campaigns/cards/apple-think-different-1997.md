@@ -47,3 +47,7 @@ When a brand has lost its way, the recovery campaign should not sell anything. I
 - Sibling: [[absolut-absolut-campaign-1981.md|Absolut _____]]
 - Sibling: [[avis-we-try-harder-1962.md|We Try Harder]]
 - Emotion match: [[apple-1984-1984.md|1984]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

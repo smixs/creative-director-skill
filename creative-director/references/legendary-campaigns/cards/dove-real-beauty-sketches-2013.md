@@ -47,3 +47,7 @@ Design the experiment so that the result could plausibly go the other way. Real 
 - Sibling: [[always-like-a-girl-2014.md|Like a Girl]]
 - Sibling: [[pg-the-talk-2017.md|The Talk]]
 - Emotion match: [[apple-1984-1984.md|1984]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

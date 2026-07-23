@@ -47,3 +47,7 @@ When a brand has authentic heritage in a physical domain, commission craft that 
 - Sibling: [[guinness-surfer-1999.md|Surfer]]
 - Sibling: [[guinness-sapeurs-2014.md|Sapeurs]]
 - Emotion match: [[guinness-surfer-1999.md|Surfer]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

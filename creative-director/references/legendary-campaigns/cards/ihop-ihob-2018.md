@@ -46,3 +46,7 @@ A brand stunt that people cannot definitively decode as real or fake will genera
 - Pattern: [[../MOC-pattern.md#p02]]
 - Sibling: [[avis-we-try-harder-1962.md|We Try Harder]]
 - Sibling: [[kfc-fck-2018.md|FCK]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

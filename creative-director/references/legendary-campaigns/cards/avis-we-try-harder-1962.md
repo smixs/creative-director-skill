@@ -51,3 +51,7 @@ The moment a brand admits its actual position is the moment it earns the right t
 - Sibling: [[kfc-fck-2018.md|FCK]]
 - Sibling: [[apple-get-a-mac-2006.md|Get a Mac (Mac vs. PC)]]
 - Emotion match: [[nike-dream-crazy-2018.md|Dream Crazy]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

@@ -472,3 +472,7 @@ Key fact: 89% of award-winning advertising works use identifiable Goldenberg/SIT
 | Category is oversaturated | First Principles (18), Reverse Brainstorming (9), Challenge from Lateral Thinking (19) |
 | Need concretization | Design Sprint Sketch (20), Starbursting (17) |
 | Need a breakthrough beyond boundaries | Provocation PO (11), Worst Possible Idea (10), Fantasy Analogy from Synectics (8) |
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

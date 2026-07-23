@@ -580,3 +580,7 @@ Total: 571 cards
 - [[cards/unknown-automotive-part1-2018.md|Part 1]] — unknown · 2018 · film · reverent · high · unknown
 - [[cards/unknown-automotive-part2-2018.md|Part 2]] — unknown · 2018 · film · reverent · high · unknown
 - [[cards/unknown-piccards-2018.md|The Piccards]] — unknown · 2018 · film · wry_affection · high · unknown
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

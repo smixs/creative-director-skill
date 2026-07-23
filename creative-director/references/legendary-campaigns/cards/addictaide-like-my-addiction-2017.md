@@ -47,3 +47,7 @@ When the behaviour you want to change is visible on social media, the platform i
 - Sibling: [[kfc-fck-2018.md|FCK]]
 - Sibling: [[beats-game-before-the-game-2014.md|The Game Before the Game]]
 - Emotion match: [[always-like-a-girl-2014.md|Like a Girl]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

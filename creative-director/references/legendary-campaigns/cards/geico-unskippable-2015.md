@@ -47,3 +47,7 @@ When a format has a technical hard limit, make that limit load-bearing. Turn the
 - Sibling: [[burger-king-google-home-whopper-2017.md|Google Home of the Whopper]]
 - Sibling: [[samsung-flipvertising-2023.md|Flipvertising]]
 - Emotion match: [[absolut-absolut-campaign-1981.md|Absolut _____]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

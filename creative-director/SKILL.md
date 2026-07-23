@@ -1,5 +1,6 @@
 ---
 name: creative-director
+license: CC-BY-4.0 (attribution required — Serge Shima, github.com/smixs/creative-director-skill)
 description: >
   AI creative director with recursive self-assessment. Generates concepts using
   world-class methodologies (SIT, TRIZ, Lateral Thinking, bisociation), scores
@@ -377,3 +378,7 @@ User: "Need 5 concepts for brand X social media posts"
 - **Insight is banal**: ask "does every marketer in the category know this?" If yes, dig deeper through Tension Spotting
 - **Can't improve above 8.5**: try a RESTART with a different HMW. Plateau = wrong problem framing
 - **Idea is hard to explain**: it's not an idea, it's a plan. Simplify to one sentence (Simplicity as Violence)
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

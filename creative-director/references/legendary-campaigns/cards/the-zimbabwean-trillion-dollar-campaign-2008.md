@@ -46,3 +46,7 @@ When the evidence of an injustice is physical, use the physical evidence as the 
 - Sibling: [[absolut-absolut-campaign-1981.md|Absolut _____]]
 - Sibling: [[apple-think-different-1997.md|Think Different]]
 - Emotion match: [[calm-the-last-photo-2022.md|The Last Photo]]
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*

@@ -154,3 +154,7 @@ Examples:
 - "Small businesses want to grow, but don't take out loans, because banking language creates a feeling of a trap, not an opportunity."
 
 This format forces the inclusion of all three elements: desire, barrier, and reason for the barrier. Without the reason, the insight remains a superficial observation.
+
+---
+
+*Author: Serge Shima ([t.me/aimastersme](https://t.me/aimastersme) · [sergeshima.com](https://sergeshima.com) · [aimasters.me](https://aimasters.me)) · License: CC BY 4.0 — attribution required · Source: [smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)*
